@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "901779198108",
+    "firebase_url": "https://rentals-275516.firebaseio.com",
+    "project_id": "rentals-275516",
+    "storage_bucket": "rentals-275516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901779198108:android:1b15062922ab103d365d59",
+        "android_client_info": {
+          "package_name": "com.rentals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901779198108-qlt0ruuvu971ophtpo4fj0tmgtdgr17b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rentals",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "901779198108-npfkkbnv44lsd04shnbj5f7qa2ku5ei8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rentals",
+            "certificate_hash": "590419088d8b27146b176b3c266d76e9bac78a4e"
+          }
+        },
+        {
+          "client_id": "901779198108-0cphdcj9duvvhbv69c6ovlmd37teet4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtkYD5WKj2Aht5_muCPR_5bLrN717wHws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901779198108-0cphdcj9duvvhbv69c6ovlmd37teet4i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "901779198108-kkr8cru19odcif4ukmk3ad7duotghvhe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Rentals"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
