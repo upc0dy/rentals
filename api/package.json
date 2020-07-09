@@ -1,0 +1,39 @@
+{
+  "name": "calories-backend",
+  "version": "1.0.0",
+  "description": "Backend v1.0 for Calories",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "author": "John",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "download-file": "^0.1.5",
+    "express": "^4.17.1",
+    "express-validation": "^3.0.2",
+    "http-status": "^1.4.2",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.9.3",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.6",
+    "passport": "^0.4.1",
+    "passport-http-bearer": "^1.0.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "validate.js": "^0.13.1",
+    "validator": "^12.2.0",
+    "ws": "^7.2.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.2"
+  }
+}
